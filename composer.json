@@ -1,0 +1,33 @@
+{
+  "name": "iohna/php-scoper-exclude-generator",
+	"version": "1.0.0",
+  "description": "A list of all Wordpress/WooCommerce core classes, functions and constants. Meant to be used with the PHP-Scoper exclusion functionality.",
+  "minimum-stability": "stable",
+  "keywords": [
+    "WordPress",
+    "WooCommerce",
+    "PHP-scoper",
+    "php-scoper",
+    "scoping Woocommerce"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Calvin Alkan",
+      "email": "calvin@snicco.de"
+    },
+    {
+      "name": "Marlon Alkan",
+      "email": "marlon@snicco.de"
+    }
+  ],
+  "require-dev": {
+    "php": "^7.4",
+    "sniccowp/php-scoper-excludes": "dev-master",
+
+    "php-stubs/wordpress-stubs": "6.8.2",
+    "php-stubs/wordpress-globals": "0.2.0",
+
+    "php-stubs/woocommerce-stubs": "^10.0"
+  }
+}
