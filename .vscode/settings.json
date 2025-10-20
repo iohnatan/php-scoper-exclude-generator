@@ -1,4 +1,5 @@
 {
+    "windowColors.🌈 DeleteSettingsFileUponExit": false,
     "workbench.colorCustomizations": {
         "[Default Dark+]": {
             "sideBar.background": "#191919",
@@ -9,5 +10,5 @@
         "activityBar.background": "#0D2D58",
         "titleBar.activeBackground": "#123F7B",
         "titleBar.activeForeground": "#F7FAFE"
-    }
+    },
 }
